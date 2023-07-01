@@ -8,7 +8,7 @@ import os
 if not os.path.exists('data'):
     os.makedirs('data')
 
-api_key = 'f1JrRoWef2QOFynoDJJ3Wc00n1Ufl70m3t8z98ACHM_mgs-JiAiaAbtnVIxQ9mYBDVbfj5lVVGN0iYzKcU8bTqx7qmB-0d9DPVTokxRTMCv4POQNRuz3eEMeHnWBZHYx'
+api_key = '**'
 
 headers = {
     'Authorization': 'Bearer %s' % api_key,
