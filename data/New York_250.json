@@ -1,0 +1,2176 @@
+{
+    "businesses": [
+        {
+            "id": "M-4J09S14mPsH1EJrnR1Og",
+            "alias": "yemen-chuanchuan-\u723a\u4eec\u4e32\u4e32-\u7237\u4eec\u4e32\u4e32-new-york",
+            "name": "Yemen chuanchuan \u723a\u4eec\u4e32\u4e32 \u7237\u4eec\u4e32\u4e32",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qN1CVFYlSHzNoHUuIvIXeA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/yemen-chuanchuan-%E7%88%BA%E4%BB%AC%E4%B8%B2%E4%B8%B2-%E7%88%B7%E4%BB%AC%E4%B8%B2%E4%B8%B2-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                },
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.745733,
+                "longitude": -73.99132
+            },
+            "transactions": [],
+            "location": {
+                "address1": "105 W27 St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "105 W27 St",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+16464764935",
+            "display_phone": "(646) 476-4935",
+            "distance": 4413.976163274024
+        },
+        {
+            "id": "gtXP0CmOnBbgfnff7VXa7A",
+            "alias": "pastis-new-york-3",
+            "name": "Pastis",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FPyzQJ2Aqm2SmLu21uX6WA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pastis-new-york-3?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 491,
+            "categories": [
+                {
+                    "alias": "french",
+                    "title": "French"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.73928,
+                "longitude": -74.00695
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "52 Gansevoort St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10014",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "52 Gansevoort St",
+                    "New York, NY 10014"
+                ]
+            },
+            "phone": "+12129294844",
+            "display_phone": "(212) 929-4844",
+            "distance": 4272.517548595885
+        },
+        {
+            "id": "2wVirrAVg3ltAFHoHeXHMQ",
+            "alias": "dim-sum-palace-new-york-9",
+            "name": "Dim Sum Palace",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eSaOLayWbkTQ9r3fq1evzg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dim-sum-palace-new-york-9?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 365,
+            "categories": [
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                },
+                {
+                    "alias": "cantonese",
+                    "title": "Cantonese"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7259,
+                "longitude": -73.98986
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "59 2nd Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10003",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "59 2nd Ave",
+                    "New York, NY 10003"
+                ]
+            },
+            "phone": "+16464768846",
+            "display_phone": "(646) 476-8846",
+            "distance": 2282.265180131131
+        },
+        {
+            "id": "rgT1QspkBHKHb7MlliBeuA",
+            "alias": "church-of-sweden-manhattan-2",
+            "name": "Church Of Sweden",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yhOMcmzoFRSHJ6pSjvjQEg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/church-of-sweden-manhattan-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "scandinavian",
+                    "title": "Scandinavian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.757225,
+                "longitude": -73.977386
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "5 E 48th St",
+                "address2": "",
+                "address3": "",
+                "city": "Manhattan",
+                "zip_code": "10017",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "5 E 48th St",
+                    "Manhattan, NY 10017"
+                ]
+            },
+            "phone": "+12128328443",
+            "display_phone": "(212) 832-8443",
+            "distance": 5546.0846201997265
+        },
+        {
+            "id": "JYbrQqYd-8iGBWIAAHKBRA",
+            "alias": "citizens-of-soho-new-york",
+            "name": "Citizens Of Soho",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o9Yl7tVWMWKqe9nLu_sMQg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/citizens-of-soho-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 130,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "australian",
+                    "title": "Australian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.72134572319133,
+                "longitude": -73.99766916309609
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "201 Lafayette St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10012",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "201 Lafayette St",
+                    "New York, NY 10012"
+                ]
+            },
+            "phone": "+13475351245",
+            "display_phone": "(347) 535-1245",
+            "distance": 2225.1809966695
+        },
+        {
+            "id": "CB-7kZ9u5fzhzYwPAIcelQ",
+            "alias": "verge-brooklyn",
+            "name": "Verge",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JAxU-zOeNIg6tJC7XTW1Hg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/verge-brooklyn?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.73188595247275,
+                "longitude": -73.95803552883534
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "159 Franklin St",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11222",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "159 Franklin St",
+                    "Brooklyn, NY 11222"
+                ]
+            },
+            "phone": "+13477213300",
+            "display_phone": "(347) 721-3300",
+            "distance": 3255.4799584728485
+        },
+        {
+            "id": "VSPkVw9gSQx-5v4A6aC_YA",
+            "alias": "manousheh-bleecker-new-york-8",
+            "name": "Manousheh - Bleecker",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3R7CyTRhGpqwapBjFnOsgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/manousheh-bleecker-new-york-8?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 510,
+            "categories": [
+                {
+                    "alias": "lebanese",
+                    "title": "Lebanese"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.729511,
+                "longitude": -74.001275
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "193 Bleecker St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10012",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "193 Bleecker St",
+                    "New York, NY 10012"
+                ]
+            },
+            "phone": "+13479715778",
+            "display_phone": "(347) 971-5778",
+            "distance": 3110.1464123643486
+        },
+        {
+            "id": "7A8lzSqrSVfQFae13Tjhew",
+            "alias": "ddobar-new-york",
+            "name": "DDOBAR",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/X0RyFr6PQ0uyRwgVGUeTsw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ddobar-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.75154,
+                "longitude": -74.00685
+            },
+            "transactions": [],
+            "location": {
+                "address1": "601 W 26th St",
+                "address2": "",
+                "address3": "Olly Olly Market",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "601 W 26th St",
+                    "Olly Olly Market",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+12125898185",
+            "display_phone": "(212) 589-8185",
+            "distance": 5480.567948832926
+        },
+        {
+            "id": "Iecc3o2fy5vprsGZOeD1iw",
+            "alias": "olly-olly-market-new-york-2",
+            "name": "Olly Olly Market",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IhOMdVGkmemeUy8vdLJVsQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/olly-olly-market-new-york-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "food_court",
+                    "title": "Food Court"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.75154,
+                "longitude": -74.00685
+            },
+            "transactions": [],
+            "location": {
+                "address1": "601 W 26th St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "601 W 26th St",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 5480.567948832926
+        },
+        {
+            "id": "OOAFPiztVlStZIUDwcixqA",
+            "alias": "miznon-new-york-7",
+            "name": "Miznon",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VD8fCiaswOg_obLpI_adcQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/miznon-new-york-7?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 107,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.75352,
+                "longitude": -74.00012
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "20 Hudson Yards",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "20 Hudson Yards",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+16464342071",
+            "display_phone": "(646) 434-2071",
+            "distance": 5458.7241787360545
+        },
+        {
+            "id": "_03n3VP-tujID_SJbeEDeA",
+            "alias": "two-hands-new-york-5",
+            "name": "Two Hands",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KT3xWwLRGnWuDPnIS7dh-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/two-hands-new-york-5?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 71,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.726306014451026,
+                "longitude": -73.9956844
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "74 Bleecker St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10012",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "74 Bleecker St",
+                    "New York, NY 10012"
+                ]
+            },
+            "phone": "+16466697183",
+            "display_phone": "(646) 669-7183",
+            "distance": 2546.1733882126355
+        },
+        {
+            "id": "3QIFBLKp2Z9zA-PXlUEQlg",
+            "alias": "okatte-tanto-ny-new-york",
+            "name": "Okatte Tanto NY",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zMcbrSejic3cPb2yT6Rc4Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/okatte-tanto-ny-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.75455,
+                "longitude": -73.96941
+            },
+            "transactions": [],
+            "location": {
+                "address1": "249 E 49th St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10017",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "249 E 49th St",
+                    "New York, NY 10017"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 5330.608939598467
+        },
+        {
+            "id": "1IfRf5XvBIynockIPa3YcQ",
+            "alias": "emilia-by-nai-new-york",
+            "name": "Emilia by Nai",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OXFpmxPYmoh_mwfJzKK4qQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/emilia-by-nai-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 31,
+            "categories": [
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.729047028115936,
+                "longitude": -73.98390437116394
+            },
+            "transactions": [],
+            "location": {
+                "address1": "174 1st Ave",
+                "address2": null,
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10003",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "174 1st Ave",
+                    "New York, NY 10003"
+                ]
+            },
+            "phone": "+12126771030",
+            "display_phone": "(212) 677-1030",
+            "distance": 2459.1313079826027
+        },
+        {
+            "id": "LkV96_buOU_n0br4SBO57w",
+            "alias": "ci-siamo-new-york-5",
+            "name": "Ci Siamo",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Sc2AdduIiIcN7U36j_wstQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ci-siamo-new-york-5?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 298,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.75240549384363,
+                "longitude": -73.9982864846782
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "440 West 33rd St",
+                "address2": "Ste 100",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "440 West 33rd St",
+                    "Ste 100",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+12122196559",
+            "display_phone": "(212) 219-6559",
+            "distance": 5278.889136156106
+        },
+        {
+            "id": "diz6_4TVSP6EdWEZCZ0Acg",
+            "alias": "kaoru-new-york",
+            "name": "Kaoru",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7Xv6nQwtb07E_Z-GgqOfUw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kaoru-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 482,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.75202,
+                "longitude": -73.96977
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "306 E 46th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10017",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "306 E 46th St",
+                    "New York, NY 10017"
+                ]
+            },
+            "phone": "+12128670874",
+            "display_phone": "(212) 867-0874",
+            "distance": 5035.674813744827
+        },
+        {
+            "id": "KPGZ6zr6lUX9YROjGcUbtw",
+            "alias": "peri-peri-grill-house-brooklyn",
+            "name": "Peri Peri Grill House",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DKKQoEj4UCRxu2m3ySQJUQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/peri-peri-grill-house-brooklyn?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 187,
+            "categories": [
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "portuguese",
+                    "title": "Portuguese"
+                },
+                {
+                    "alias": "african",
+                    "title": "African"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.68474,
+                "longitude": -73.92916
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "235 Malcolm X Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11233",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "235 Malcolm X Blvd",
+                    "Brooklyn, NY 11233"
+                ]
+            },
+            "phone": "+19179668614",
+            "display_phone": "(917) 966-8614",
+            "distance": 4888.584782780575
+        },
+        {
+            "id": "Rc1Ay4C2BgLBouuM92SAtQ",
+            "alias": "ferdi-new-york",
+            "name": "Ferdi",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uj-ERZPXBi_zRJvrgqPQAg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ferdi-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.72995,
+                "longitude": -74.00449
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "15 7th Ave S",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10014",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "15 7th Ave S",
+                    "New York, NY 10014"
+                ]
+            },
+            "phone": "+16464766464",
+            "display_phone": "(646) 476-6464",
+            "distance": 3335.5873151405926
+        },
+        {
+            "id": "m4CFfE1_u5rwVgb45ZqRpA",
+            "alias": "sofreh-brooklyn",
+            "name": "Sofreh",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lPoqEJFLqjXxX4uhK8_ZTQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sofreh-brooklyn?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 410,
+            "categories": [
+                {
+                    "alias": "persian",
+                    "title": "Persian/Iranian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.6798617,
+                "longitude": -73.973984
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "75 St Marks Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11217",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "75 St Marks Ave",
+                    "Brooklyn, NY 11217"
+                ]
+            },
+            "phone": "+16467981690",
+            "display_phone": "(646) 798-1690",
+            "distance": 3074.4592662494188
+        },
+        {
+            "id": "_G5JMPOkU6IG1OKbhw3gXA",
+            "alias": "peaches-prime-brooklyn",
+            "name": "Peaches Prime",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pPI4S4_hag2Z_yTdIjz9Ag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/peaches-prime-brooklyn?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 21,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.68777,
+                "longitude": -73.97887
+            },
+            "transactions": [],
+            "location": {
+                "address1": "590 Fulton St",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11217",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "590 Fulton St",
+                    "Brooklyn, NY 11217"
+                ]
+            },
+            "phone": "+17186736014",
+            "display_phone": "(718) 673-6014",
+            "distance": 2145.2995773634607
+        },
+        {
+            "id": "Vw8NSOu7aS8de1vVhFpemQ",
+            "alias": "yia-yias-taverna-brooklyn-4",
+            "name": "Yia Yia's Taverna",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-FzY1i1LfeKdC6gCTkUn7Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/yia-yias-taverna-brooklyn-4?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 323,
+            "categories": [
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.70401,
+                "longitude": -73.93086
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "1035 Flushing Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11237",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1035 Flushing Ave",
+                    "Brooklyn, NY 11237"
+                ]
+            },
+            "phone": "+17188215900",
+            "display_phone": "(718) 821-5900",
+            "distance": 4062.8926005380167
+        },
+        {
+            "id": "onGzhRqmlmYixXljTT3QVQ",
+            "alias": "sobre-masa-brooklyn-2",
+            "name": "Sobre Masa",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/od20R-t7laOYtdnI2HOMyw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sobre-masa-brooklyn-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.70634,
+                "longitude": -73.93136
+            },
+            "transactions": [],
+            "location": {
+                "address1": "52 Harrison Pl",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11237",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "52 Harrison Pl",
+                    "Brooklyn, NY 11237"
+                ]
+            },
+            "phone": "+13478442343",
+            "display_phone": "(347) 844-2343",
+            "distance": 4009.556432261155
+        },
+        {
+            "id": "YC-wGlO0oOkEIaCEDZv-ag",
+            "alias": "yakitori-totto-new-york",
+            "name": "Yakitori Totto",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kh1v41sixiuUNlXM-L01pQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/yakitori-totto-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 1434,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.765375,
+                "longitude": -73.983114
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "251 W 55th St",
+                "address2": "Fl 2",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "251 W 55th St",
+                    "Fl 2",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12122454555",
+            "display_phone": "(212) 245-4555",
+            "distance": 6472.124949073271
+        },
+        {
+            "id": "1XIHwTfpNms9IX-fRG-kIA",
+            "alias": "theo-thai-bistro-brooklyn",
+            "name": "Theo Thai Bistro",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/q4FWFPSL390gjKsBvb6TjA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/theo-thai-bistro-brooklyn?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.681159,
+                "longitude": -73.97421
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "53 6th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11217",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "53 6th Ave",
+                    "Brooklyn, NY 11217"
+                ]
+            },
+            "phone": "+13472409056",
+            "display_phone": "(347) 240-9056",
+            "distance": 2930.9760532342716
+        },
+        {
+            "id": "llaJFX_qOWTrlcXBZR0RyA",
+            "alias": "bar-mario-brooklyn",
+            "name": "Bar Mario",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bBvJHa3SiuGrV9F5QyWKHw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bar-mario-brooklyn?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.676867170482815,
+                "longitude": -74.01367008804954
+            },
+            "transactions": [],
+            "location": {
+                "address1": "365 Van Brunt St",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11231",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "365 Van Brunt St",
+                    "Brooklyn, NY 11231"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 4472.3818404443755
+        },
+        {
+            "id": "Ry9w-jFALWYhazi6jjyIKw",
+            "alias": "rucola-brooklyn",
+            "name": "Rucola",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cUWUr0OH-hnShqeFeshopA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rucola-brooklyn?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 560,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.68562,
+                "longitude": -73.98587
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "190 Dean St",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11217",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "190 Dean St",
+                    "Brooklyn, NY 11217"
+                ]
+            },
+            "phone": "+17185763209",
+            "display_phone": "(718) 576-3209",
+            "distance": 2478.512823584654
+        },
+        {
+            "id": "OkiPb6gNNRmcbB4zIIMx0g",
+            "alias": "big-tiny-brooklyn-4",
+            "name": "Big Tiny",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7JO0ZkJbvW2EdcX0jwfCrQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/big-tiny-brooklyn-4?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 76,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "french",
+                    "title": "French"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.6834507,
+                "longitude": -73.992855
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "244 Smith St",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11231",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "244 Smith St",
+                    "Brooklyn, NY 11231"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2896.064093427928
+        },
+        {
+            "id": "IErfGS0DASSJfYU73m0Sqg",
+            "alias": "malatesta-trattoria-new-york",
+            "name": "Malatesta Trattoria",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ta-XuKa0JWytnr_z6Ci3BA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/malatesta-trattoria-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 1351,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.73285,
+                "longitude": -74.00847
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "649 Washington St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10014",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "649 Washington St",
+                    "New York, NY 10014"
+                ]
+            },
+            "phone": "+12127411207",
+            "display_phone": "(212) 741-1207",
+            "distance": 3779.863319120199
+        },
+        {
+            "id": "zXCGF0XtqjOv1s4DUHOtqg",
+            "alias": "harts-restaurant-brooklyn-2",
+            "name": "Hart's Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/X8_YtrjSmb-dX9O2lLWlVQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/harts-restaurant-brooklyn-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 118,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.68146,
+                "longitude": -73.95589
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "506 Franklin Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11238",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "506 Franklin Ave",
+                    "Brooklyn, NY 11238"
+                ]
+            },
+            "phone": "+17186366228",
+            "display_phone": "(718) 636-6228",
+            "distance": 3461.1644685340098
+        },
+        {
+            "id": "opA6T-cCCdBmixRs_3Q3Lw",
+            "alias": "calyer-brooklyn-2",
+            "name": "Calyer",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OS61UfuAgxSLKsMiDPCoXQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/calyer-brooklyn-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 47,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.6938,
+                "longitude": -73.96394
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "519 Myrtle Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11205",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "519 Myrtle Ave",
+                    "Brooklyn, NY 11205"
+                ]
+            },
+            "phone": "+17185763086",
+            "display_phone": "(718) 576-3086",
+            "distance": 1947.933860669818
+        },
+        {
+            "id": "2_3W7NFFN3m4U_8ffgEuyQ",
+            "alias": "cafe-spaghetti-brooklyn",
+            "name": "Cafe Spaghetti",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TbR1A1PeohcFybsGSxrOqw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-spaghetti-brooklyn?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 85,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.68412,
+                "longitude": -74.0024
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "126 Union St",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11231",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "126 Union St",
+                    "Brooklyn, NY 11231"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3251.9776693944154
+        },
+        {
+            "id": "UEC2N2hVWRI4r9COPLBtWg",
+            "alias": "tenement-new-york",
+            "name": "Tenement",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qedvcioCdQoa0XYg1mlHSw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tenement-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.72146514727279,
+                "longitude": -73.9878926
+            },
+            "transactions": [],
+            "location": {
+                "address1": "161 Ludlow St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10002",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "161 Ludlow St",
+                    "New York, NY 10002"
+                ]
+            },
+            "phone": "+19295296002",
+            "display_phone": "(929) 529-6002",
+            "distance": 1751.5764882204328
+        },
+        {
+            "id": "nnMEtKLL0lyaXyXACRkVEQ",
+            "alias": "no-7-brooklyn-3",
+            "name": "no. 7",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/si-Vh_hrPyzc3lP4fRt1hg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/no-7-brooklyn-3?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.67831,
+                "longitude": -73.96843
+            },
+            "transactions": [],
+            "location": {
+                "address1": "627 Vanderbilt Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11238",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "627 Vanderbilt Ave",
+                    "Brooklyn, NY 11238"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3338.561298617808
+        },
+        {
+            "id": "nD7Hcq5aaCASbWzc0-Sg3A",
+            "alias": "bobwhite-counter-new-york-7",
+            "name": "Bobwhite Counter",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uuvduV0sJlbm42r81_geLA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bobwhite-counter-new-york-7?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 900,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.72365,
+                "longitude": -73.97899
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "94 Ave C",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10009",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "94 Ave C",
+                    "New York, NY 10009"
+                ]
+            },
+            "phone": "+16467607786",
+            "display_phone": "(646) 760-7786",
+            "distance": 1821.460213737263
+        },
+        {
+            "id": "qvX5If0CwM1RGzP3ie4SKA",
+            "alias": "dumpling-n-dips-new-york-2",
+            "name": "Dumpling N' Dips",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/79mVLszv2qXeZ6MusDgsRg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dumpling-n-dips-new-york-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 131,
+            "categories": [
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.72944,
+                "longitude": -73.98934
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "5 St Marks Pl",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10003",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "5 St Marks Pl",
+                    "New York, NY 10003"
+                ]
+            },
+            "phone": "+19294294656",
+            "display_phone": "(929) 429-4656",
+            "distance": 2619.166274815656
+        },
+        {
+            "id": "iMKF20yFvCIbe3eSJnX8yQ",
+            "alias": "little-egg-brooklyn",
+            "name": "Little Egg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rDY9Er8N0D-srXjcMxs41A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/little-egg-brooklyn?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.6777,
+                "longitude": -73.96358
+            },
+            "transactions": [],
+            "location": {
+                "address1": "657 Washington Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11238",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "657 Washington Ave",
+                    "Brooklyn, NY 11238"
+                ]
+            },
+            "phone": "+19292345776",
+            "display_phone": "(929) 234-5776",
+            "distance": 3534.4169850327544
+        },
+        {
+            "id": "UM3DuPsG6UKdmsC23O_Icw",
+            "alias": "aska-brooklyn-3",
+            "name": "Aska",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JbqcbESV14UepX6RH2KYyg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/aska-brooklyn-3?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 147,
+            "categories": [
+                {
+                    "alias": "scandinavian",
+                    "title": "Scandinavian"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.71226,
+                "longitude": -73.96641
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "47 South 5th St",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11249",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "47 South 5th St",
+                    "Brooklyn, NY 11249"
+                ]
+            },
+            "phone": "+19293376792",
+            "display_phone": "(929) 337-6792",
+            "distance": 1191.9306437666935
+        },
+        {
+            "id": "Ve_YFyWRgtfYz0C0LQB7Xw",
+            "alias": "market-57-new-york",
+            "name": "Market 57",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nruSws_21PPE41UQz99SXQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/market-57-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "food_court",
+                    "title": "Food Court"
+                },
+                {
+                    "alias": "eventplanning",
+                    "title": "Party & Event Planning"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.74301,
+                "longitude": -74.00838
+            },
+            "transactions": [],
+            "location": {
+                "address1": "25 11th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10011",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "25 11th Ave",
+                    "New York, NY 10011"
+                ]
+            },
+            "phone": "+16465881617",
+            "display_phone": "(646) 588-1617",
+            "distance": 4730.715178276965
+        },
+        {
+            "id": "6gpx42BtqgUdyYe8y9DP4Q",
+            "alias": "fat-fowl-brooklyn",
+            "name": "Fat Fowl",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jULnJlp3W5FSL4aDlPEirw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fat-fowl-brooklyn?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 64,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.6910061,
+                "longitude": -73.98295519999999
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "445 Albee Sq W",
+                "address2": "",
+                "address3": "Dekalb Market Hall",
+                "city": "Brooklyn",
+                "zip_code": "11201",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "445 Albee Sq W",
+                    "Dekalb Market Hall",
+                    "Brooklyn, NY 11201"
+                ]
+            },
+            "phone": "+13472622577",
+            "display_phone": "(347) 262-2577",
+            "distance": 1838.7004961787804
+        },
+        {
+            "id": "_ikAduS3A3h0o0ne1-ViOA",
+            "alias": "london-and-martin-new-york",
+            "name": "London & Martin",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/J3Y1JSrN-pGeF5riRDHCMA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/london-and-martin-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "irish_pubs",
+                    "title": "Irish Pub"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.703837113066704,
+                "longitude": -74.01285761372853
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6 Stone St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10004",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "6 Stone St",
+                    "New York, NY 10004"
+                ]
+            },
+            "phone": "+16463701330",
+            "display_phone": "(646) 370-1330",
+            "distance": 2885.860192491428
+        },
+        {
+            "id": "OBRYVNn2FRhVCCadoFepBQ",
+            "alias": "electric-lemon-new-york",
+            "name": "Electric Lemon",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lIBtdUQxGQGudsESXVMmHA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/electric-lemon-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 345,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.754553,
+                "longitude": -74.002057
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "33 Hudson Yards",
+                "address2": "Fl 24",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "33 Hudson Yards",
+                    "Fl 24",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+12128129202",
+            "display_phone": "(212) 812-9202",
+            "distance": 5608.837984690588
+        },
+        {
+            "id": "GD-tsn8khDevVa7-KQK3ZQ",
+            "alias": "3-times-brooklyn-3",
+            "name": "3 Times",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LYN0FaNYGE6YfFiYMMdM8A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/3-times-brooklyn-3?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                },
+                {
+                    "alias": "shanghainese",
+                    "title": "Shanghainese"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.71106,
+                "longitude": -73.95179
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "483 Grand St",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11211",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "483 Grand St",
+                    "Brooklyn, NY 11211"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2321.928296683432
+        },
+        {
+            "id": "kHeakps7Gj8EaImiOYaX8g",
+            "alias": "le-french-diner-new-york",
+            "name": "Le French Diner",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/obBvvGHF-vo-K6fY5LVEOw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/le-french-diner-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 157,
+            "categories": [
+                {
+                    "alias": "french",
+                    "title": "French"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7218274586187,
+                "longitude": -73.9879689992204
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "188 Orchard St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10002",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "188 Orchard St",
+                    "New York, NY 10002"
+                ]
+            },
+            "phone": "+12127771577",
+            "display_phone": "(212) 777-1577",
+            "distance": 1790.7321209510014
+        },
+        {
+            "id": "Vz_VSDTLuuEfaku4ihKTvA",
+            "alias": "little-ways-new-york",
+            "name": "Little Ways",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/v2rBDjxrDa_z4jMBt7OZvQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/little-ways-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 68,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.722622,
+                "longitude": -74.0033741
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "343 W Broadway",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10013",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "343 W Broadway",
+                    "New York, NY 10013"
+                ]
+            },
+            "phone": "+12129918175",
+            "display_phone": "(212) 991-8175",
+            "distance": 2677.1168503556705
+        },
+        {
+            "id": "FxpK6jSW9dyFAlkTFTrKuQ",
+            "alias": "bleu-nuk-bk-brooklyn",
+            "name": "Bleu Nuk BK",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/o0Cga5Um8NA-OHlaFWp8FA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bleu-nuk-bk-brooklyn?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.659460546946875,
+                "longitude": -73.95045217126608
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1150 Nostrand Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11225",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1150 Nostrand Ave",
+                    "Brooklyn, NY 11225"
+                ]
+            },
+            "phone": "+17182102529",
+            "display_phone": "(718) 210-2529",
+            "distance": 5831.632169644043
+        },
+        {
+            "id": "v1DHGRNCH9247WLYoaoA9A",
+            "alias": "l-industrie-pizzeria-brooklyn",
+            "name": "L'industrie Pizzeria",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KKB2Trak1Ou3bqJePe8RmQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/l-industrie-pizzeria-brooklyn?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 992,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.71162,
+                "longitude": -73.95783
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "254 S 2nd St",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11211",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "254 S 2nd St",
+                    "Brooklyn, NY 11211"
+                ]
+            },
+            "phone": "+17185990002",
+            "display_phone": "(718) 599-0002",
+            "distance": 1838.320604320091
+        },
+        {
+            "id": "Pr-q47vsmM4aoc2t_Sfk8w",
+            "alias": "momofuku-noodle-bar-uptown-new-york",
+            "name": "Momofuku Noodle Bar - Uptown",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/h08ukV9YwJXhQBT2kvCCIg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/momofuku-noodle-bar-uptown-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 564,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.76802583631109,
+                "longitude": -73.9829243
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "10 Columbus Cir",
+                "address2": "Third Floor",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "10 Columbus Cir",
+                    "Third Floor",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 6765.647558812301
+        },
+        {
+            "id": "OgM6WwztLVavBQBmb_g5aw",
+            "alias": "tara-rose-new-york",
+            "name": "Tara Rose",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qNnetZj6PpYGCAlWfg8s0g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tara-rose-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 731,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.741803261063986,
+                "longitude": -73.98122457328056
+            },
+            "transactions": [
+                "delivery",
+                "restaurant_reservation",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "384 3rd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10016",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "384 3rd Ave",
+                    "New York, NY 10016"
+                ]
+            },
+            "phone": "+19296025983",
+            "display_phone": "(929) 602-5983",
+            "distance": 3846.322467742272
+        },
+        {
+            "id": "jEEb_EKKD2lx2mvTly_U6Q",
+            "alias": "watermark-new-york",
+            "name": "Watermark",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nE-yVXOf9j8bdjSgDHraOg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/watermark-new-york?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 647,
+            "categories": [
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.7043789539783,
+                "longitude": -74.0029934983643
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "Pier 15, 78 S St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10038",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "Pier 15, 78 S St",
+                    "New York, NY 10038"
+                ]
+            },
+            "phone": "+12127428200",
+            "display_phone": "(212) 742-8200",
+            "distance": 2054.2850762191697
+        },
+        {
+            "id": "eb6KHglt70janbTewtIi4A",
+            "alias": "casino-new-york-2",
+            "name": "Casino",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H2Pwel1I5F_XPDH-rJ-3jA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/casino-new-york-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.71398,
+                "longitude": -73.98968
+            },
+            "transactions": [],
+            "location": {
+                "address1": "171 E Broadway",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10002",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "171 E Broadway",
+                    "New York, NY 10002"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1171.7006789794157
+        },
+        {
+            "id": "5ZgCfc1_fotAKUp7n3YJkQ",
+            "alias": "towa-new-york-3",
+            "name": "Towa",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BOoLPUB53FHS6mS3yNl6yw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/towa-new-york-3?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 80,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7442,
+                "longitude": -73.99062
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "36 W 26th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10010",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "36 W 26th St",
+                    "New York, NY 10010"
+                ]
+            },
+            "phone": "+16463516258",
+            "display_phone": "(646) 351-6258",
+            "distance": 4228.903882409681
+        }
+    ],
+    "total": 15000,
+    "region": {
+        "center": {
+            "longitude": -73.97918701171875,
+            "latitude": 40.706977710584276
+        }
+    }
+}
