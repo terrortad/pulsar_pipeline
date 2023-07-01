@@ -2,7 +2,7 @@ from kafka import KafkaConsumer
 import json
 import traceback
 
-# To consume latest messages and auto-commit offsets
+#  consume latest messages and auto-commit offsets
 try:
     consumer = KafkaConsumer('my_topic',
                              bootstrap_servers='localhost:9092',
