@@ -18,3 +18,5 @@ This repo contains Python scripts for a project that retrieves restaurant/busine
 - **pulsar_producer.py**: This loads only a single JSON file ('New York_350.json' used) into a Python dictionary and sends this data to the topic. The script pauses for 1 second before closing the producer and client. It's meant to load only one file to the topic.
 - **pulsar_consumer.py**: This script continuously receives and processes messages, printing out each business from the data. Messages are acknowledged upon successful processing, but they are negatively acknowledged if not processed. The consumer runs indefinitely until manually stopped.
 
+
+![Pipeline Flowchart](pipeline_flowchart.jpg)
