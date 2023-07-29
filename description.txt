@@ -1,0 +1,13 @@
+
+Producer side: In your producer code, you're creating a client and producer that connect to a Pulsar server 
+running on your local machine (at pulsar://localhost:6650). You're opening a file (in this case New York_0.json), 
+reading its contents as JSON data, and sending it to the 'my_topic' topic on the Pulsar server. After sending the data, 
+you're properly closing the producer and the client.
+
+
+Consumer side: Similarly, you're creating a client and consumer that also connect to the Pulsar server. The consumer 
+subscribes to the 'my_topic' topic and begins listening for new messages. When a new message arrives 
+(the JSON data you sent from the producer), the consumer receives the message, prints its data and id, 
+and then acknowledges the message to the Pulsar server. The acknowledgement tells the server that the message was 
+successfully processed and doesn't need to be redelivered. If any error occurs during this process, 
+the consumer negatively acknowledges the message to the server, causing the server to redeliver the message at a later time.

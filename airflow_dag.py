@@ -35,10 +35,17 @@ cities = ['New York'] #  newyork only selected
 for city in cities:
     #  for each city, define a producer task that calls pulsar_producer_function with that city
     producer_task = PythonOperator(
+<<<<<<< HEAD
         task_id=f'produce_task_{city.replace(" ", "_").lower()}',  #  unique identifier of the task, created by combining the string 'produce_task_' with the lowercase city name, and spaces replaced by _
         python_callable=pulsar_producer_function,  #  function to be run by the task
         op_kwargs={'city': city},  # pass the city as an argument to the function
         dag=dag,  #  dag that this task is still apart of
+=======
+    task_id=f'produce_task_{city.replace(" ", "_").lower()}',  # The unique identifier of the task
+    python_callable=pulsar_producer_function,  # The function to be run by the task
+    op_kwargs={'city': city, 'read_all_files': True},  # Add a 'read_all_files' argument
+    dag=dag,  # The DAG that this task is a part of
+>>>>>>> c83ae4c (Resolved conflicts)
     )
 
     #  for each city, also define a corresponding consumer task

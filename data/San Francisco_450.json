@@ -1,0 +1,2285 @@
+{
+    "businesses": [
+        {
+            "id": "Bcvvia9zPFe3BV6c6Ld9Kw",
+            "alias": "blue-bottle-coffee-sansome-san-francisco",
+            "name": "Blue Bottle Coffee - Sansome",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BVHXPCGKTkr6bcXNhNjOCw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blue-bottle-coffee-sansome-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 369,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7913156019325,
+                "longitude": -122.401013486507
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "115 Sansome St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94104",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "115 Sansome St",
+                    "San Francisco, CA 94104"
+                ]
+            },
+            "phone": "+15106533394",
+            "display_phone": "(510) 653-3394",
+            "distance": 4597.5327195231
+        },
+        {
+            "id": "g2ckHUzTfnsFR_pW0Ism7g",
+            "alias": "boba-guys-san-francisco-17",
+            "name": "Boba Guys",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KastDPtQstDefGkLnwsoZw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/boba-guys-san-francisco-17?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 155,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7774106,
+                "longitude": -122.4381031
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "836 Divisadero St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "836 Divisadero St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "+14159672622",
+            "display_phone": "(415) 967-2622",
+            "distance": 1849.809412618729
+        },
+        {
+            "id": "xz1p8uJ9dfh5YVzK_WNxzQ",
+            "alias": "bluestone-lane-san-francisco-san-francisco-2",
+            "name": "Bluestone Lane - San Francisco",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/q7zZ1pLyl_SDUeJyRybgYg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bluestone-lane-san-francisco-san-francisco-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 310,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.79375,
+                "longitude": -122.39906
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "227 Front St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94111",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "227 Front St",
+                    "San Francisco, CA 94111"
+                ]
+            },
+            "phone": "+17183746858",
+            "display_phone": "(718) 374-6858",
+            "distance": 4913.947137224957
+        },
+        {
+            "id": "K8EcFpeCVOOJNYlWE6gMcQ",
+            "alias": "rapha-san-francisco-san-francisco",
+            "name": "Rapha - San Francisco",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/S9LK42V1QvULWnDIEmZI-A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rapha-san-francisco-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 118,
+            "categories": [
+                {
+                    "alias": "sportswear",
+                    "title": "Sports Wear"
+                },
+                {
+                    "alias": "bikes",
+                    "title": "Bikes"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7982491,
+                "longitude": -122.4356125
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "2198 Filbert St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2198 Filbert St",
+                    "San Francisco, CA 94123"
+                ]
+            },
+            "phone": "+14158293683",
+            "display_phone": "(415) 829-3683",
+            "distance": 4153.741422904627
+        },
+        {
+            "id": "HTVGqdt-9_j5J2U624l79Q",
+            "alias": "picnix-bistro-san-francisco",
+            "name": "Picnix Bistro",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eviv3tIt03wbb924j41pww/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/picnix-bistro-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 133,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.78722,
+                "longitude": -122.45638
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3872 Sacramento St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3872 Sacramento St",
+                    "San Francisco, CA 94118"
+                ]
+            },
+            "phone": "+14157512255",
+            "display_phone": "(415) 751-2255",
+            "distance": 3400.632448420435
+        },
+        {
+            "id": "b9ktf-foUwu05x9M67OSNQ",
+            "alias": "universal-bakery-san-francisco",
+            "name": "Universal Bakery",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NVXjdojnV9RcFTAqzYHfAg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/universal-bakery-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 119,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "empanadas",
+                    "title": "Empanadas"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.74137,
+                "longitude": -122.42278
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3458 Mission St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94110",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3458 Mission St",
+                    "San Francisco, CA 94110"
+                ]
+            },
+            "phone": "+14158214971",
+            "display_phone": "(415) 821-4971",
+            "distance": 2472.684678363034
+        },
+        {
+            "id": "G1oAfI-mVeXZttCD1s9SoQ",
+            "alias": "spruce-cafe-south-san-francisco",
+            "name": "Spruce Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iDoqusnYnfG9P7VpdfBKXg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/spruce-cafe-south-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 512,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.64757,
+                "longitude": -122.42035
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "230 S Spruce Ave",
+                "address2": null,
+                "address3": "",
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "230 S Spruce Ave",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16506348438",
+            "display_phone": "(650) 634-8438",
+            "distance": 12661.376415941642
+        },
+        {
+            "id": "4CODmk_yNbJ_YoBsgYIh0w",
+            "alias": "blue-bottle-coffee-jackson-square-san-francisco",
+            "name": "Blue Bottle Coffee - Jackson Square",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JnRY9ryd4dbfmhuods5MHw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blue-bottle-coffee-jackson-square-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 36,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.797544,
+                "longitude": -122.404073
+            },
+            "transactions": [],
+            "location": {
+                "address1": "909 Montgomery St",
+                "address2": "Ste 105",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "909 Montgomery St",
+                    "Ste 105",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+15106533394",
+            "display_phone": "(510) 653-3394",
+            "distance": 4966.746736881893
+        },
+        {
+            "id": "IJk76B-pTta_klpAZcpQdA",
+            "alias": "lous-cafe-san-francisco",
+            "name": "Lou's Cafe",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zjE21goq1XUXE3iFzlLSuA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lous-cafe-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 1846,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.78045,
+                "longitude": -122.47329246476228
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "5017 Geary Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5017 Geary Blvd",
+                    "San Francisco, CA 94118"
+                ]
+            },
+            "phone": "+14153794429",
+            "display_phone": "(415) 379-4429",
+            "distance": 3900.538753851329
+        },
+        {
+            "id": "IY-AC3eWtA0we9WGYn7kyg",
+            "alias": "equator-coffees-mill-valley-4",
+            "name": "Equator Coffees",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fjIrCuO0W7dl3hSgueB9ZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/equator-coffees-mill-valley-4?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 288,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.881657,
+                "longitude": -122.52445
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "244 Shoreline Hwy",
+                "address2": "",
+                "address3": "",
+                "city": "Mill Valley",
+                "zip_code": "94941",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "244 Shoreline Hwy",
+                    "Mill Valley, CA 94941"
+                ]
+            },
+            "phone": "+14152093733",
+            "display_phone": "(415) 209-3733",
+            "distance": 15493.570496326505
+        },
+        {
+            "id": "0sIK9d0iaFOSUiu3RgA2aA",
+            "alias": "el-cafetazo-san-francisco",
+            "name": "El Cafetazo",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AAEQd4R4Ih6PbqSsrQfgLQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/el-cafetazo-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 91,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.7647618077727,
+                "longitude": -122.421479076148
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3078 16th St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94103",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3078 16th St",
+                    "San Francisco, CA 94103"
+                ]
+            },
+            "phone": "+14155220220",
+            "display_phone": "(415) 522-0220",
+            "distance": 1384.09244537334
+        },
+        {
+            "id": "qW8Bh8jpS9Xc-UV28F9jBw",
+            "alias": "hayes-valley-bakeworks-san-francisco",
+            "name": "Hayes Valley Bakeworks",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mc4FC3My8g2wvaBq81jc9Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hayes-valley-bakeworks-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 168,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.77842,
+                "longitude": -122.42292
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "550 Gough St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "550 Gough St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14158642688",
+            "display_phone": "(415) 864-2688",
+            "distance": 2289.2561376355957
+        },
+        {
+            "id": "WBpPeK_eDwP6dzDXML4eQA",
+            "alias": "upper-terrace-market-san-francisco-2",
+            "name": "Upper Terrace Market",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DIjjkSnKGhxfm1JVEniZjg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/upper-terrace-market-san-francisco-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 39,
+            "categories": [
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7617669,
+                "longitude": -122.44526104349252
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4499 17th St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94114",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4499 17th St",
+                    "San Francisco, CA 94114"
+                ]
+            },
+            "phone": "+14152520326",
+            "display_phone": "(415) 252-0326",
+            "distance": 780.7860994535891
+        },
+        {
+            "id": "1xb6uUmiJpx40UIZMs3f8Q",
+            "alias": "the-epicurean-trader-hayes-valley-san-francisco",
+            "name": "The Epicurean Trader - Hayes Valley",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dgO-qhD5akvK9U_1CocrwQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-epicurean-trader-hayes-valley-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 80,
+            "categories": [
+                {
+                    "alias": "gourmet",
+                    "title": "Specialty Food"
+                },
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.776620057193,
+                "longitude": -122.423879988492
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "465 Hayes St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "465 Hayes St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+18885048118",
+            "display_phone": "(888) 504-8118",
+            "distance": 2067.8278126166206
+        },
+        {
+            "id": "jkOZ7aFvWMNM-1t9ZhENtg",
+            "alias": "caffe-central-san-francisco-6",
+            "name": "Caffe Central",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/J2VnkRj8OKnKdoeKYCsDHw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/caffe-central-san-francisco-6?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7652,
+                "longitude": -122.38814
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "490 Illinois St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94158",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "490 Illinois St",
+                    "San Francisco, CA 94158"
+                ]
+            },
+            "phone": "+14156587755",
+            "display_phone": "(415) 658-7755",
+            "distance": 4250.740808172191
+        },
+        {
+            "id": "o86gyUxsNYnPIF-kAlznKA",
+            "alias": "aura-boba-tea-and-coffee-san-francisco-2",
+            "name": "AURA Boba Tea & Coffee",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qj4ETrBEIJcd3yXEXoVGhg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/aura-boba-tea-and-coffee-san-francisco-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 142,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.79233593640378,
+                "longitude": -122.39270767881594
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "121 Spear St",
+                "address2": "Ste B-05",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94105",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "121 Spear St",
+                    "Ste B-05",
+                    "San Francisco, CA 94105"
+                ]
+            },
+            "phone": "+14087171881",
+            "display_phone": "(408) 717-1881",
+            "distance": 5195.870657110534
+        },
+        {
+            "id": "RmYvlTMKTGzfCJ-u8kqVIA",
+            "alias": "the-grind-cafe-san-francisco-3",
+            "name": "The Grind Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/z6CvzQbuBIMLluG9wQky4A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-grind-cafe-san-francisco-3?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 620,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.771323357953904,
+                "longitude": -122.4351828178187
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "783 Haight St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "783 Haight St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "+14158640955",
+            "display_phone": "(415) 864-0955",
+            "distance": 1164.4068788045154
+        },
+        {
+            "id": "eteoYBIl7Bcay0MokVYzig",
+            "alias": "coffee-stand-stinson-beach",
+            "name": "Coffee Stand",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Qritgm9voDlyeJ-EyoIugw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/coffee-stand-stinson-beach?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.89878,
+                "longitude": -122.6399
+            },
+            "transactions": [],
+            "location": {
+                "address1": "101 Calle Del Mar",
+                "address2": null,
+                "address3": "",
+                "city": "Stinson Beach",
+                "zip_code": "94970",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "101 Calle Del Mar",
+                    "Stinson Beach, CA 94970"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 23545.859455488942
+        },
+        {
+            "id": "z4g4bZPR-Z8bFlwv9APl2w",
+            "alias": "presidio-kebab-san-francisco",
+            "name": "Presidio Kebab",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3Az1neqh3lnwq8h349XQEg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/presidio-kebab-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 288,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.788081,
+                "longitude": -122.446806
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3277 Sacramento St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94115",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3277 Sacramento St",
+                    "San Francisco, CA 94115"
+                ]
+            },
+            "phone": "+14159477163",
+            "display_phone": "(415) 947-7163",
+            "distance": 3155.764988464188
+        },
+        {
+            "id": "Z5hz_51pEMo5UcexwrQV2Q",
+            "alias": "robins-cafe-san-francisco-4",
+            "name": "Robin's Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yS86qWhD3AOcIKRs3UP29A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/robins-cafe-san-francisco-4?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 92,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.76338,
+                "longitude": -122.41644
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3153 17th St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94110",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3153 17th St",
+                    "San Francisco, CA 94110"
+                ]
+            },
+            "phone": "+14155498549",
+            "display_phone": "(415) 549-8549",
+            "distance": 1782.027694646271
+        },
+        {
+            "id": "TCaagQVqECB97vJAs4t9Mg",
+            "alias": "barrel-head-brewhouse-san-francisco-5",
+            "name": "Barrel Head Brewhouse",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SzWN1L05SxEeWpY6bMyT4A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/barrel-head-brewhouse-san-francisco-5?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 592,
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7757521780078,
+                "longitude": -122.446032238623
+            },
+            "transactions": [
+                "delivery",
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1785 Fulton St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1785 Fulton St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "+14154166989",
+            "display_phone": "(415) 416-6989",
+            "distance": 1854.0398960195314
+        },
+        {
+            "id": "feZ_Tr6kV1l_kcNA8jUqjQ",
+            "alias": "zero-and-sf-fillmore-san-francisco",
+            "name": "ZERO& SF Fillmore",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eRbxnf4C9qXThNqZ7G_gpQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/zero-and-sf-fillmore-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.79054,
+                "longitude": -122.43389
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2252 Fillmore St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94115",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2252 Fillmore St",
+                    "San Francisco, CA 94115"
+                ]
+            },
+            "phone": "+16288668400",
+            "display_phone": "(628) 866-8400",
+            "distance": 3303.4602948163047
+        },
+        {
+            "id": "Ku36Xth8HwSgSsgmwBjJaA",
+            "alias": "hungry-cafe-san-francisco",
+            "name": "Hungry Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9JbhFqUuOO4AEZQ3CXgQjw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hungry-cafe-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.74299,
+                "longitude": -122.38677
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1550 Evans Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94124",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1550 Evans Ave",
+                    "San Francisco, CA 94124"
+                ]
+            },
+            "phone": "+14154487430",
+            "display_phone": "(415) 448-7430",
+            "distance": 4773.069249517306
+        },
+        {
+            "id": "p2UxlDCm7aIP9jpK6g1e5A",
+            "alias": "cafe-la-taza-san-francisco-2",
+            "name": "Cafe La Taza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ot8YJhHAtzs6AfBnRRdsSA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-la-taza-san-francisco-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 410,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.75748,
+                "longitude": -122.41859
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2475 Mission St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94110",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2475 Mission St",
+                    "San Francisco, CA 94110"
+                ]
+            },
+            "phone": "+14158247717",
+            "display_phone": "(415) 824-7717",
+            "distance": 1605.7735451858034
+        },
+        {
+            "id": "wzn7svQ_by-PoQmVxJsirg",
+            "alias": "reception-san-francisco",
+            "name": "reception",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/e3NBqa_Gx6jvF7z9UTwlQQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/reception-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7575527,
+                "longitude": -122.3947191
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1395 22nd St",
+                "address2": null,
+                "address3": "",
+                "city": "SAN FRANCISCO",
+                "zip_code": "94107",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1395 22nd St",
+                    "SAN FRANCISCO, CA 94107"
+                ]
+            },
+            "phone": "+14152822800",
+            "display_phone": "(415) 282-2800",
+            "distance": 3687.123438759023
+        },
+        {
+            "id": "yyi2GpG_p7TX7XAq_eHSZA",
+            "alias": "boudin-san-francisco-4",
+            "name": "Boudin",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hs_GUJSvVItUVaLIifXTuw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/boudin-san-francisco-4?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 4302,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.808507,
+                "longitude": -122.4149153
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "160 Jefferson St",
+                "address2": "Bistro Boudin",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "160 Jefferson St",
+                    "Bistro Boudin",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+14153515561",
+            "display_phone": "(415) 351-5561",
+            "distance": 5621.734084316788
+        },
+        {
+            "id": "6WGlm2tCjD3Dsy5Z5O0XQg",
+            "alias": "black-jet-baking-san-francisco",
+            "name": "Black Jet Baking",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UK12kF__eDizDLgYh7ngew/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/black-jet-baking-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 184,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "customcakes",
+                    "title": "Custom Cakes"
+                },
+                {
+                    "alias": "cupcakes",
+                    "title": "Cupcakes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7391011,
+                "longitude": -122.4141424
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "833 Cortland Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94110",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "833 Cortland Ave",
+                    "San Francisco, CA 94110"
+                ]
+            },
+            "phone": "+14158293905",
+            "display_phone": "(415) 829-3905",
+            "distance": 3117.816705768215
+        },
+        {
+            "id": "WrcFdTPMY_SpaHeGsKhtkA",
+            "alias": "turn-caf\u00e9-little-sweet-san-francisco-12",
+            "name": "Turn Caf\u00e9- Little Sweet",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TCPS5KVIdZP9iJh6k0fsfw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/turn-caf%C3%A9-little-sweet-san-francisco-12?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.78490728968037,
+                "longitude": -122.40818972582656
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "7 Powell St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "7 Powell St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+16289990178",
+            "display_phone": "(628) 999-0178",
+            "distance": 3646.2282203215955
+        },
+        {
+            "id": "QszjFtOypFre1KjCgcxc9Q",
+            "alias": "cento-coffee-san-francisco",
+            "name": "Cento Coffee",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6NZk5aYZmle1Y7f_GwPLCg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cento-coffee-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.77826230971485,
+                "longitude": -122.39393906098611
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "242 Townsend St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94107",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "242 Townsend St",
+                    "San Francisco, CA 94107"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 4205.680932678222
+        },
+        {
+            "id": "HRyBoh32eQDJ1MPWFHlGpg",
+            "alias": "jackson-place-cafe-san-francisco",
+            "name": "Jackson Place Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zxzxG1f6uq5WKJLgzHHqEw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jackson-place-cafe-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 209,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7970754,
+                "longitude": -122.4009192
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "633 Battery St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94111",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "633 Battery St",
+                    "San Francisco, CA 94111"
+                ]
+            },
+            "phone": "+14155093458",
+            "display_phone": "(415) 509-3458",
+            "distance": 5086.00653420243
+        },
+        {
+            "id": "eCml9j_cBg6evI2CJkR46g",
+            "alias": "biteunite-san-francisco",
+            "name": "BiteUnite",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1yKzPtkRhWCxxI9h7vwj2Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/biteunite-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 45,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "cookingclasses",
+                    "title": "Cooking Classes"
+                },
+                {
+                    "alias": "kitchenincubators",
+                    "title": "Kitchen Incubators"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.7633584,
+                "longitude": -122.4176856
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "600 S Van Ness Ave",
+                "address2": null,
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94110",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "600 S Van Ness Ave",
+                    "San Francisco, CA 94110"
+                ]
+            },
+            "phone": "+14156243083",
+            "display_phone": "(415) 624-3083",
+            "distance": 1671.7674186439754
+        },
+        {
+            "id": "z6DlLVZXBmLz4wKWLQBAGA",
+            "alias": "first-cup-san-francisco",
+            "name": "First Cup",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1uGN7IeQdjAyWsfEQ84Oig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/first-cup-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 83,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.8024,
+                "longitude": -122.42511
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2911 Van Ness Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94109",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2911 Van Ness Ave",
+                    "San Francisco, CA 94109"
+                ]
+            },
+            "phone": "+14159222054",
+            "display_phone": "(415) 922-2054",
+            "distance": 4739.08683308927
+        },
+        {
+            "id": "Nh7YDXWeMocrsk3E6sVzfQ",
+            "alias": "mochill-mochi-donut-san-francisco",
+            "name": "Mochill Mochi Donut",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OnN7jVjvZ6inc-CgveJztw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mochill-mochi-donut-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 933,
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.784993980030485,
+                "longitude": -122.43107497125447
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1737 Post St",
+                "address2": "Ste 395",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94115",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1737 Post St",
+                    "Ste 395",
+                    "San Francisco, CA 94115"
+                ]
+            },
+            "phone": "+16506192462",
+            "display_phone": "(650) 619-2462",
+            "distance": 2720.4831103314223
+        },
+        {
+            "id": "JZ1CWLfJ1cm6fuHkU2vo-g",
+            "alias": "mannys-san-francisco",
+            "name": "Manny's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4a-x3MWKGrnRLu5kKDN-rQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mannys-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 198,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                },
+                {
+                    "alias": "nonprofit",
+                    "title": "Community Service/Non-Profit"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.76517,
+                "longitude": -122.42159
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3092 16th St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94103",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3092 16th St",
+                    "San Francisco, CA 94103"
+                ]
+            },
+            "phone": "+14158964052",
+            "display_phone": "(415) 896-4052",
+            "distance": 1381.5979494145222
+        },
+        {
+            "id": "YEG-jKuPzQs5CtVsjF79Bg",
+            "alias": "hahdough-san-francisco-5",
+            "name": "Hahdough",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RGl-vC1NZcZq-c_MD8kjsQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hahdough-san-francisco-5?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 82,
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                },
+                {
+                    "alias": "pretzels",
+                    "title": "Pretzels"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.775873,
+                "longitude": -122.4262799
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "509 Laguna St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "509 Laguna St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14156760576",
+            "display_phone": "(415) 676-0576",
+            "distance": 1889.6723451783173
+        },
+        {
+            "id": "-t3HYfZEkxHD1liQJVn13g",
+            "alias": "butter-and-san-francisco",
+            "name": "Butter&",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Iu8iIhYzV9dhh-JwPt-Gmg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/butter-and-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 336,
+            "categories": [
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "customcakes",
+                    "title": "Custom Cakes"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.761726442284726,
+                "longitude": -122.39178651802608
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "690 Indiana St",
+                "address2": null,
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94107",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "690 Indiana St",
+                    "San Francisco, CA 94107"
+                ]
+            },
+            "phone": "+14157077414",
+            "display_phone": "(415) 707-7414",
+            "distance": 3927.064267322029
+        },
+        {
+            "id": "WKEFt4vsfJrIrUIpXUXhSA",
+            "alias": "precita-park-cafe-san-francisco",
+            "name": "Precita Park Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nP_IzBnBlg9C5eNJcuf9oQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/precita-park-cafe-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 477,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.74709621508451,
+                "longitude": -122.41046186584737
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "500 Precita Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94110",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "500 Precita Ave",
+                    "San Francisco, CA 94110"
+                ]
+            },
+            "phone": "+14156477702",
+            "display_phone": "(415) 647-7702",
+            "distance": 2752.2274215261154
+        },
+        {
+            "id": "yS5ZtAE_cqS3ZFXc49p3jw",
+            "alias": "harvest-wheat-field-bakery-san-francisco-2",
+            "name": "Harvest Wheat Field Bakery",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NFwDPte6T0geRCS3EDoHiw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/harvest-wheat-field-bakery-san-francisco-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 94,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.78282,
+                "longitude": -122.46394
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "431 Clement St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "431 Clement St",
+                    "San Francisco, CA 94118"
+                ]
+            },
+            "phone": "+14156681888",
+            "display_phone": "(415) 668-1888",
+            "distance": 3430.36266783676
+        },
+        {
+            "id": "gB5RedZ_SrOGz_d3mGLT6w",
+            "alias": "la-boulangerie-de-san-francisco-san-francisco-33",
+            "name": "La Boulangerie de San Francisco",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/s9toziDqwZFjFp6YwY0SFQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-boulangerie-de-san-francisco-san-francisco-33?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 107,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.75181,
+                "longitude": -122.42938
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3898 24th St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94114",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3898 24th St",
+                    "San Francisco, CA 94114"
+                ]
+            },
+            "phone": "+14157963830",
+            "display_phone": "(415) 796-3830",
+            "distance": 1186.2366537007676
+        },
+        {
+            "id": "SQqQq1OWGbO4MGUcGWOH7A",
+            "alias": "fox-and-lion-bread-san-francisco",
+            "name": "Fox and Lion Bread",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/V7k383yxyBqYnzC1Mm5s5A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fox-and-lion-bread-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 110,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.76211011733065,
+                "longitude": -122.41848031982089
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3350 18th St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94110",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3350 18th St",
+                    "San Francisco, CA 94110"
+                ]
+            },
+            "phone": "+14158729789",
+            "display_phone": "(415) 872-9789",
+            "distance": 1585.1350980182963
+        },
+        {
+            "id": "5AbIje9ZFCsTF1YrESSOIg",
+            "alias": "la-cuisine-cafe-san-francisco-4",
+            "name": "La Cuisine Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p2yRikGk24-JERueD3djMg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-cuisine-cafe-san-francisco-4?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 90,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "french",
+                    "title": "French"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.77950184993586,
+                "longitude": -122.41335819999426
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1145 Market St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94103",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1145 Market St",
+                    "San Francisco, CA 94103"
+                ]
+            },
+            "phone": "+14157570133",
+            "display_phone": "(415) 757-0133",
+            "distance": 2897.8097356118487
+        },
+        {
+            "id": "m3xdxV8YNH5uh1N01xdnLA",
+            "alias": "golden-gate-bakery-san-francisco",
+            "name": "Golden Gate Bakery",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qVd33dvUDgsLIaqngKeP-w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/golden-gate-bakery-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 3444,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.79641,
+                "longitude": -122.40683
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1029 Grant Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1029 Grant Ave",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+14157812627",
+            "display_phone": "(415) 781-2627",
+            "distance": 4729.348810873803
+        },
+        {
+            "id": "Zn6UlhMoCmO0Cb_0TyvbLw",
+            "alias": "sweet-mango-dessert-and-cafe-san-francisco-3",
+            "name": "Sweet Mango Dessert & Cafe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LMMPVJ4NmzkdmQVVp0J_oA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sweet-mango-dessert-and-cafe-san-francisco-3?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 170,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "hkcafe",
+                    "title": "Hong Kong Style Cafe"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.78024,
+                "longitude": -122.47542
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "5217 Geary Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5217 Geary Blvd",
+                    "San Francisco, CA 94118"
+                ]
+            },
+            "phone": "+14156688812",
+            "display_phone": "(415) 668-8812",
+            "distance": 4050.1082125128232
+        },
+        {
+            "id": "RTMeCUm9y6Lsz6TGGERPGg",
+            "alias": "flour-and-water-pasta-shop-san-francisco",
+            "name": "Flour & Water Pasta Shop",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/d4YY4iatxCqBNIFmAFqIAw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/flour-and-water-pasta-shop-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 62,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "pastashops",
+                    "title": "Pasta Shops"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.759246,
+                "longitude": -122.411045
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3000 20th St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94110",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3000 20th St",
+                    "San Francisco, CA 94110"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2238.7978172535204
+        },
+        {
+            "id": "3EpIEOJlNPc5R899YDngJw",
+            "alias": "the-epicurean-trader-san-francisco-5",
+            "name": "The Epicurean Trader",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Urj2l6ZUuBGCXYS4_u-enw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-epicurean-trader-san-francisco-5?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 139,
+            "categories": [
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                },
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "gourmet",
+                    "title": "Specialty Food"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.79755,
+                "longitude": -122.43086
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1909 Union St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1909 Union St",
+                    "San Francisco, CA 94123"
+                ]
+            },
+            "phone": "+18885048118",
+            "display_phone": "(888) 504-8118",
+            "distance": 4102.09489232619
+        },
+        {
+            "id": "DoCHqjuyqO3usRJRuOWhRw",
+            "alias": "far-from-paradise-cafe-san-francisco",
+            "name": "Far From Paradise Cafe",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7KRxk-HSKevyROPzKeuUcQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/far-from-paradise-cafe-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 455,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "shavedice",
+                    "title": "Shaved Ice"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.72322080882859,
+                "longitude": -122.44308728159687
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "296 Ocean Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "296 Ocean Ave",
+                    "San Francisco, CA 94112"
+                ]
+            },
+            "phone": "+14154945573",
+            "display_phone": "(415) 494-5573",
+            "distance": 4230.150359516605
+        },
+        {
+            "id": "R1lTHpoVBkJl8zerfqn8ZQ",
+            "alias": "mister-artisan-cheesecake-daly-city-2",
+            "name": "Mister Artisan Cheesecake",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sPYglou_tf_envdLUl-gww/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mister-artisan-cheesecake-daly-city-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 73,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "customcakes",
+                    "title": "Custom Cakes"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.67947,
+                "longitude": -122.48251
+            },
+            "transactions": [],
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Daly City",
+                "zip_code": "94015",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "Daly City, CA 94015"
+                ]
+            },
+            "phone": "+16503088180",
+            "display_phone": "(650) 308-8180",
+            "distance": 10009.248914570428
+        },
+        {
+            "id": "uz129Cj3paf64Qtnldg4JA",
+            "alias": "lotus-bakeries-north-america-san-francisco",
+            "name": "Lotus Bakeries North America",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GxdycDg_j4wU1PwooRYnPQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lotus-bakeries-north-america-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.806186,
+                "longitude": -122.406022
+            },
+            "transactions": [],
+            "location": {
+                "address1": "50 Francisco St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "50 Francisco St",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+18004222924",
+            "display_phone": "(800) 422-2924",
+            "distance": 5701.468369064739
+        },
+        {
+            "id": "6tkm2NB3L2q9UfM-7jUE5A",
+            "alias": "bluestone-lane-financial-district-coffee-shop-san-francisco",
+            "name": "Bluestone Lane Financial District Coffee Shop",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6-WKZLpBDAxJUOMQb_eQ1g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bluestone-lane-financial-district-coffee-shop-san-francisco?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7910068,
+                "longitude": -122.4012623
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "225 Bush St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94104",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "225 Bush St",
+                    "San Francisco, CA 94104"
+                ]
+            },
+            "phone": "+17183746858",
+            "display_phone": "(718) 374-6858",
+            "distance": 4557.470104105082
+        },
+        {
+            "id": "i2VhtC1JkV_sZOA4urd1ng",
+            "alias": "piccino-restaurant-san-francisco-2",
+            "name": "Piccino Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/42fFLRRpCclRKn13H4G_AQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/piccino-restaurant-san-francisco-2?adjust_creative=rwpJXx-C4HmHtJkK2dNjHw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rwpJXx-C4HmHtJkK2dNjHw",
+            "review_count": 1535,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7576217651367,
+                "longitude": -122.389915466309
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "1001 Minnesota St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94107",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1001 Minnesota St",
+                    "San Francisco, CA 94107"
+                ]
+            },
+            "phone": "+14158244224",
+            "display_phone": "(415) 824-4224",
+            "distance": 4103.349358466683
+        }
+    ],
+    "total": 3900,
+    "region": {
+        "center": {
+            "longitude": -122.43644714355469,
+            "latitude": 37.76089938976322
+        }
+    }
+}
